@@ -1,4 +1,4 @@
-Premier League Betting Model
+PREMIER LEAGUE BETTING MODEL
 Overview
 This Python-based Premier League Betting Model is designed to assist in predicting match outcomes for Premier League football matches. The model utilizes statistical and machine learning techniques to analyze historical data and make predictions for future matches
 Features
